@@ -46,3 +46,7 @@ _build
 .idea
 .vscode
 *~
+
+build_deps
+build-*
+bundles
